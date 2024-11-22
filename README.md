@@ -1,6 +1,8 @@
 # Personalized-Medical-Recommendation-System-with-Machine-Learning
 Welcome to our cutting-edge Personalized Medical Recommendation System, a powerful platform designed to assist users in understanding and managing their health. Leveraging the capabilities of machine learning, our system analyzes user-input symptoms to predict potential diseases accurately. Here's what sets our system apart:
 
+How To Run the App: Firstly install the modules from the requirements.txt file, then open the 'meow.py' then go to view and open terminal window and type the code 'streamlit run meow.py' and press enter and copy the local host site and paste it on the browser.
+
 User-Friendly Interface: Our intuitive interface allows users to input their symptoms effortlessly, creating a seamless user experience.
 
 Advanced Machine Learning Models: We've integrated state-of-the-art machine learning models that accurately predict diseases based on input symptoms, ensuring reliable and precise results.
